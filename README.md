@@ -14,6 +14,8 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-kizelevicius-samaan-7a2208239/)
   
   ### 🛠️ Tecnologies e Tools I use:
+  | Languages  | Frameworks and Technologies | Tools |  
+|---|---|---|
    
   <div>
  <img align="center" alt="cristks-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg""/>
