@@ -16,10 +16,10 @@
   ### 🛠️ Tecnologies e Tools I use:
    
   <div>
- <img align="center" alt="cristks-js" height="30" width="40" src=""/>
- <img align="center" alt="cristks-reacht" height="30" width="40" src=>
-<img align="center" alt="cristks-jest" height="30" width="40" src=>
-<img align="center" alt="cristks-bootstrep" height="30" width="40" src=>
+ <img align="center" alt="cristks-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg""/>
+ <img align="center" alt="cristks-reacht" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="cristks-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+<img align="center" alt="cristks-bootstrep" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="cristks-html" height="30" width="40" src=>
 <img align="center" alt="cristks-css" height="30" width="40" src=>
 <img align="center" alt="cristks-linux" height="30" width="40" src=>
