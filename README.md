@@ -20,11 +20,10 @@
  <img align="center" alt="cristks-reacht" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="cristks-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 <img align="center" alt="cristks-bootstrep" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="cristks-html" height="30" width="40" src=>
-<img align="center" alt="cristks-css" height="30" width="40" src=>
-<img align="center" alt="cristks-linux" height="30" width="40" src=>
-<img align="center" alt="cristks-vsc" height="30" width="40" src=>
-<img align="center" alt="cristks-trello" height="30" width="40" src=>
-
-<img align="center" alt="cristks-" height="30" width="40" src=>
+<img align="center" alt="cristks-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="cristks-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="cristks-vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="cristks-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" >
+<img align="center" alt="cristks-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="cristks-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
  </div>
