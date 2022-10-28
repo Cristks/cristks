@@ -12,6 +12,7 @@
   
   ### ❤️ Let's get connected:
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-kizelevicius-samaan-7a2208239/)
+   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristiane@samaan.com.br)
   
   ### 🛠️ Tecnologies e Tools I use:
   | Languages  | Frameworks and Technologies | Tools |  
