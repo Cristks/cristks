@@ -1,9 +1,9 @@
 ### Hi!👋
  <h1 align="center">Eu sou Cristiane Kizelevicius Samaan!</h1>
  
- <h3 align="center">Estudante da Escola de Programação Trybe!,</h3>
+ <h3 align="center">Estudante da Escola de Programação Trybe!</h3>
  
- <h3 align="center">Meu foco atualmente é me tornar uma desenvolvedora FullStack😊,<h3>
+ <h3 align="center">Meu foco atualmente é me tornar uma desenvolvedora FullStack.😊<h3>
  
 ## 
 
@@ -34,7 +34,7 @@
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
-|<div id='lojc' align="center"><span>JavaScript</span></div>|<div id='lojc' align="center"><span>React🔸Jest</span></div>|<div id='lojc' align="center"><span>Git🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Docker Compose🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma</span></div>|
+|<div id='lojc' align="center"><span>JavaScript</span></div>|<div id='lojc' align="center"><span>React🔸Jest</span></div>|<div id='lojc' align="center"><span>Git🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma 🔸 Trello </span></div>|
   </details>
 													     
 																	     
@@ -45,9 +45,9 @@
 
 <div>
 	<h3 align="center">
-		<img src="href="https://www.flaticon.com/free-icon/group_4150746?related_id=4150746&origin=pack" height="50px">
+		🫂
 		 My Soft Skills 
-		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
+		🫂
 	<h3>
 	<h4 align="center"> Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicação - Influência -Capacidade de tomar decisões -
         Poder de negociação - Empatia - Colaboração, Boa ouvinte, Criatividae, Argumentação <h4>
