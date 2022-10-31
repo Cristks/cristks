@@ -5,9 +5,12 @@
  
  <h3 align="center">Meu foco atualmente é me tornar uma desenvolvedora FullStack😊,<h3>
  
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristks&show_icons=true&theme=cobalt"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristks&layout=compact&theme=cobalt"/>
+## 
+
+<div align="center">
+	
+  <a><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristks&show_icons=true&theme=cobalt"/></a>
+   <a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristks&layout=compact&theme=cobalt"/></a>
   </div>
   
   ### ❤️ Let's get connected:
@@ -46,11 +49,11 @@
 		 My Soft Skills 
 		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
 	<h3>
-	<h4 align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges, Argumentation<h4>
+	<h4 align="center"> Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicação - Influência -Capacidade de tomar decisões -
+        Poder de negociação - Empatia - Colaboração, Boa ouvinte, Criatividae, Argumentação <h4>
 </div>
 	
-			  
-			  
+		
 			  
 
 <div align="center">
