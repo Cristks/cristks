@@ -1,9 +1,9 @@
 ### Hi!👋
- Eu sou Cristiane Kizelevicius Samaan!
+ <h1 align="center">Eu sou Cristiane Kizelevicius Samaan!</h1>
  
- Estudante da Escola de Programação Trybe!
+ <h3 align="center">Estudante da Escola de Programação Trybe!,</h3>
  
- Meu foco atualmente é me tornar uma desenvolvedora FullStack😊
+ <h3 align="center">Meu foco atualmente é me tornar uma desenvolvedora FullStack😊,<h3>
  
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristks&show_icons=true&theme=cobalt"/>
@@ -31,15 +31,12 @@
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
-|<div id='lojc' align="center"><span>JavaScript🔸SQL</span></div>|<div id='lojc' align="center"><span>React🔸Jest</span></div>|<div id='lojc' align="center"><span>Git🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Docker🔸Docker Compose🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸WordPress🔸Shopify🔸MySQL Workbench</span></div>|
+|<div id='lojc' align="center"><span>JavaScript</span></div>|<div id='lojc' align="center"><span>React🔸Jest</span></div>|<div id='lojc' align="center"><span>Git🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Docker Compose🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma</span></div>|
   </details>
 													     
 																	     
    
-| Languages  | Frameworks | Technologies | Tools | 
-|---|---|---|---|
-|<div id='lojc' align="center"><span>JavaScript🔸SQL</span></div>|<div id='lojc' align="center"><span>React🔸Jest</span></div>|<div id='lojc' align="center"><span>Git🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Docker🔸Docker Compose🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸WordPress🔸Shopify🔸MySQL Workbench</span></div>|
-  </details>
+
 
 ## 
 
@@ -51,6 +48,13 @@
 	<h3>
 	<h4 align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges, Argumentation<h4>
 </div>
+	
+			  
+			  
+			  
 
-##	
+<div align="center">
+	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+		<img src="https://komarev.com/ghpvc/?username=cristks">
+	</a>
                                                                                                                                              
