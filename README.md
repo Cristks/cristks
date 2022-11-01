@@ -59,9 +59,9 @@ Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicaç�
 ##
 		
 			  
-<div align="center">
-	</br>
-<p align="center"> Views  <img alingn="center" src="https://profile-counter.glitch.me/Cristks/count.svg" /></p>
+<div>
+	<img width="30" height="30"src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/000000/external-eye-graphic-design-tanah-basah-glyph-tanah-basah.png"/><p align="center"> <img alingn="center" width="105" height="20"src="https://profile-counter.glitch.me/Cristks/count.svg" /></p>
+	</div>
 
 
                                                                                                                                    
