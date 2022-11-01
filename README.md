@@ -47,9 +47,9 @@
 
 <div>
 	<h3 align="center">
-		🫂
+		<img width="30" height="30" src="https://img.icons8.com/stickers/100/000000/crowd-skin-type-3.png"/>
 		 My Soft Skills 
-		🫂
+		
 	<h3>
 	<h4 align="center"> Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicação - Influência -Capacidade de tomar decisões -
         Poder de negociação - Empatia - Colaboração - Boa ouvinte - Criatividade - Argumentação <h4>
