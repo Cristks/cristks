@@ -58,9 +58,9 @@
 ##
 		
 			  
-
 <div align="center">
-	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-		<img src="https://komarev.com/ghpvc/?username=cristks">
+	</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Cristks/count.svg" /></p>
+
 	</a>
                                                                                                                                    
