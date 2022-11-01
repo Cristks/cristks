@@ -29,18 +29,16 @@
 |---|---|---|
 |<div id='lojc' align="center">
  <img align="center" alt="cristks-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></div>|<div id='lojc' align="center"><img align="center" alt="cristks-reacht" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="center" width="30" height="30"/>&nbsp;&nbsp;<img align="center" alt="cristks-bootstrep" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;&nbsp;<img align="center" alt="cristks-jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">&nbsp;&nbsp;<img align="center" alt="cristks-html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;<img align="center" alt="cristks-css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img align="center" alt="cristks-linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;<img align="center" alt="cristks-vsc" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;&nbsp;<img align="center" alt="cristks-trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" >&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" align="center" background-color="white" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30" align="center"/></div>|
-   <details>
+  
    
  
-																	 				<details>
-    <summary><h4>My Technical Skills</h4></summary>
+    
 <div id='lojc' align="center">
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
 |<div id='lojc' align="center"><span>JavaScript</span></div>|<div id='lojc' align="center"><span>React🔸Jest</span></div>|<div id='lojc' align="center"><span>Git🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma 🔸 Trello </span></div>|
-  </details>
-													     
+  											     
 																	     
    
 
@@ -57,7 +55,7 @@
         Poder de negociação - Empatia - Colaboração - Boa ouvinte - Criatividade - Argumentação <h4>
 </div>
 	
-
+##
 		
 			  
 
