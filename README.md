@@ -52,7 +52,8 @@
 	<h4 align="center"> Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicação - Influência -Capacidade de tomar decisões -
         Poder de negociação - Empatia - Colaboração - Boa ouvinte - Criatividade - Argumentação <h4>
 </div>
-	
+	![snake gif](https://github.com/Cristks/cristks/blob/output/github-contribution-grid-snake.svg)
+
 		
 			  
 
