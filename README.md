@@ -16,6 +16,8 @@
   ### ❤️ Let's get connected:
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-kizelevicius-samaan-7a2208239/)
    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristiane@samaan.com.br)
+   
+   ![snake gif](https://github.com/Cristks/Cristks/blob/output/github-contribution-grid-snake.svg)
   
   ### 🛠️ Tecnologies e Tools I use:
   
@@ -28,6 +30,8 @@
 |<div id='lojc' align="center">
  <img align="center" alt="cristks-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></div>|<div id='lojc' align="center"><img align="center" alt="cristks-reacht" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="center" width="30" height="30"/>&nbsp;&nbsp;<img align="center" alt="cristks-bootstrep" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;&nbsp;<img align="center" alt="cristks-jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">&nbsp;&nbsp;<img align="center" alt="cristks-html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;<img align="center" alt="cristks-css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img align="center" alt="cristks-linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;<img align="center" alt="cristks-vsc" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;&nbsp;<img align="center" alt="cristks-trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" >&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" align="center" background-color="white" />&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30" align="center"/></div>|
    <details>
+   
+ 
 																	 				<details>
     <summary><h4>My Technical Skills</h4></summary>
 <div id='lojc' align="center">
@@ -61,4 +65,4 @@
 	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 		<img src="https://komarev.com/ghpvc/?username=cristks">
 	</a>
-                  ![snake gif](https://github.com/Cristks/cristks/blob/output/github-contribution-grid-snake.svg)                                                                                                                           
+                                                                                                                                   
