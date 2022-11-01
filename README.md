@@ -47,7 +47,7 @@
 
 <div>
 	<h3 align="center">
-		<img width="30" height="30" src="https://img.icons8.com/stickers/100/000000/crowd-skin-type-3.png"/>
+		<img width="40" height="40" src="https://img.icons8.com/stickers/100/000000/crowd-skin-type-3.png"/>
 		 My Soft Skills 
 		
 	<h3>
