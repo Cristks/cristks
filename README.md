@@ -50,7 +50,7 @@
 		🫂
 	<h3>
 	<h4 align="center"> Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicação - Influência -Capacidade de tomar decisões -
-        Poder de negociação - Empatia - Colaboração - Boa ouvinte - Criatividae - Argumentação <h4>
+        Poder de negociação - Empatia - Colaboração - Boa ouvinte - Criatividade - Argumentação <h4>
 </div>
 	
 		
