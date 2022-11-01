@@ -61,7 +61,7 @@ Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicaç�
 			  
 <div align="center">
 	</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Cristks/count.svg" /></p>
+<p align="center"> Views  <img width="105" height="20" alingn="center" src="https://profile-counter.glitch.me/Cristks/count.svg" /></p>
 
 
                                                                                                                                    
