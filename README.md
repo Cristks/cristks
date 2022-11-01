@@ -1,5 +1,5 @@
 ### Hi!👋
- <h1 align="center">Eu sou Cristiane Kizelevicius Samaan!</h1>
+ <img width="40" height="40" src="https://img.icons8.com/stickers/100/000000/crowd-skin-type-3.png"/>
  
  <h3 align="center">Estudante da Escola de Programação Trybe!</h3>
  
@@ -46,13 +46,14 @@
 ## 
 
 <div>
-	<h3 align="center">
-		<img width="40" height="40" src="https://img.icons8.com/stickers/100/000000/crowd-skin-type-3.png"/>
-		 My Soft Skills 
+
+<div>
+	<img width="50" height="50" src="https://img.icons8.com/stickers/100/000000/crowd-skin-type-3.png"/>
+	<h3 align="center">Soft Skills</h3>
+	</div>
 		
-	<h3>
-	<h4 align="center"> Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicação - Influência -Capacidade de tomar decisões -
-        Poder de negociação - Empatia - Colaboração - Boa ouvinte - Criatividade - Argumentação <h4>
+Habilidade de liderança - Desenvolvimento da equipe - Motivação - Comunicação - Influência -Capacidade de tomar decisões -
+        Poder de negociação - Empatia - Colaboração - Boa ouvinte - Criatividade - Argumentação 
 </div>
 	
 ##
