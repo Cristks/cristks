@@ -1,5 +1,5 @@
 ### Hi!👋
- <img width="40" height="40" src="https://img.icons8.com/stickers/100/000000/crowd-skin-type-3.png"/>
+
  
  <h3 align="center">Estudante da Escola de Programação Trybe!</h3>
  
