@@ -1,7 +1,7 @@
 ### Olá!👋
 
  
- <h3 align="center"> Meu nome é Cristiane Kizekevicius e sou estudante da Escola de Programação Trybe!</h3>
+ <h3 align="center"> Meu nome é Cristiane Kizelevicius e sou estudante da Escola de Programação Trybe!</h3>
  
  <h3 align="center">Meu foco atualmente é me tornar uma desenvolvedora Front e Back End.😊<h3>
  
