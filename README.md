@@ -9,8 +9,8 @@
 
 <div align="center">
 	
-  <a><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristks&show_icons=true&theme=cobalt"/></a>
-   <a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristks&layout=compact&theme=cobalt"/></a>
+  <a><img height="180em" src="https://github-readme-stats.cristks.app/api?username=cristks&show_icons=true&theme=cobalt"/></a>
+   <a><img height="180em" src="https://github-readme-stats.cristks.app/api/top-langs/?username=cristks&layout=compact&theme=cobalt"/></a>
   </div>
   
   ### Connect with me ❤️ 
