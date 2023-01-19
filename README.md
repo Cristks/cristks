@@ -9,10 +9,7 @@
 
 <div align="center">
 	
-  <a><img height="180em" src="https://github-readme-stats.cristks.app/api?username=cristks&show_icons=true&theme=cobalt"/></a>
-   <a><img height="180em" src="https://github-readme-stats.cristks.app/api/top-langs/?username=cristks&layout=compact&theme=cobalt"/></a>
-  </div>
-  
+ 
   ### Connect with me ❤️ 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-kizelevicius-samaan-7a2208239/)
    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristiane@samaan.com.br)
