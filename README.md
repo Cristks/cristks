@@ -13,7 +13,7 @@
   ### Connect with me ❤️ 
   📫 Email [cristiane@samaan.com.br](cristiane@samaan.com.br) 
 
-- 📄 Confira meu perfil no LinkedIn [https://github.com/Cristks](https://github.com/Cristks)
+- 📄 Confira meu perfil no LinkedIn [https://www.linkedin.com/in/cristiane-kizelevicius-samaan/](https://www.linkedin.com/in/cristiane-kizelevicius-samaan/)
    
    ![snake gif](https://github.com/Cristks/Cristks/blob/output/github-contribution-grid-snake.svg)
   
