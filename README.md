@@ -1,7 +1,7 @@
 ### Olá!👋
 
  
- <h3 align="center"> Meu nome é Cristiane Kizelevicius e sou estudante da Escola de Programação Trybe!</h3>
+ <h3 align="center"> Meu nome é Cristiane Kizelevicius formada em Administração de Negócios pelo Centro Universitário FEI desde 1994, atuando nas áreas Administrativa / Financeira e Licitações-. Estou em transição de carreira, estudando da Escola de Programação Trybe!</h3>
  
  <h3 align="center">Meu foco atualmente é me tornar uma desenvolvedora Front e Back End.😊<h3>
  
