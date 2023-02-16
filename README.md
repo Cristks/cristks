@@ -11,6 +11,8 @@
 	
  
   ### Connect with me ❤️ 
+	
+	EMAIL : cristiane@samaan.com.br
  
 
 <div align="center" margin="50px">
