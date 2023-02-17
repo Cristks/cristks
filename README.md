@@ -2,10 +2,10 @@
 
  
   Sou formada em Administração de Negócios pelo Centro Universitário FEI desde 1994, atuando nas áreas Administrativa / Financeira e Licitações. 
-  Estou em transição de carreira, com o foco de me tornar uma desenvolvedora Front e Back-End.  
+  Estou em transição de carreira, com o foco em  me tornar uma desenvolvedora Front e Back-End.  
   Atualmente Estudo na Escola de Programação Trybe! <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/565e69d971fcdb50.png" width="15" height="15" align="center" background-color="white" />
 
- Passei pelos módulo de Fundamentos do Desenvolvimento Web e  Desenvolvimento Front-End. Em breve concluo o módulo de  Desenvolvimento Back-End e Ciência da Computação😊
+ Passei pelos módulo de Fundamentos do Desenvolvimento Web e  Desenvolvimento Front-End e, em breve breve concluo o módulo de  Desenvolvimento Back-End e Ciência da Computação😊
  
 
 
