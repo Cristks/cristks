@@ -1,4 +1,4 @@
-### Olá, Meu nome é Cristiane Kizelevicius,👋 ###
+### Olá👋, Meu nome é Cristiane Kizelevicius,:hibiscus: ###
 
  
   Sou formada em Administração de Negócios pelo Centro Universitário FEI desde 1994, atuando nas áreas Administrativa / Financeira e Licitações. 
