@@ -5,7 +5,7 @@
   
   Estou em transição de carreira, com o foco em  me tornar uma desenvolvedora Front e Back-End.
   
-  Atualmente Estudo na Escola de Programação Trybe! <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/565e69d971fcdb50.png" width="15" height="15" align="center" background-color="white" /> Finalizei o  módulo de Fundamentos do Desenvolvimento Web e  Desenvolvimento Front-End e, em breve breve concluo o módulo de  Desenvolvimento Back-End e Ciência da Computação😊
+  Atualmente Estudo na Escola de Programação Trybe! <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/565e69d971fcdb50.png" width="15" height="15" align="center" background-color="white" /> Finalizei o  módulo de Fundamentos do Desenvolvimento Web e  Desenvolvimento Front-End e, em breve concluo o módulo de  Desenvolvimento Back-End e Ciência da Computação😊
  
 
 
